@@ -1,0 +1,92 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.sidebar{
+    width:2000px;
+    height:140vh;
+    
+    background-color: #4A5878;
+    display: inline-block;
+}
+.head{
+    display: flex;
+    width: 1250px;
+    height: 100px;
+    align-items: center;
+    font-size: 30px;
+    padding-left:20px ;
+    background-color: #c4c4c4;
+}
+.flexbox{
+    display: flex;
+}
+.flexbox>div>h3{
+    align-items: center;
+}
+.navbar{
+    background-color: #ececec;
+    padding-left: 30px;
+}
+.space{
+    display: flex;
+   align-items: center; 
+   justify-content: space-between;  
+}
+
+.header2{
+    display: flex;
+    width: 1152px;
+    height: 100px;
+    padding-left: 20px; 
+    align-items: center;    
+      
+}
+.button{    
+    background-color: black;
+    color: aliceblue;
+    border-radius: 10px; 
+    padding: 10px 10px 10px 10px;  
+}
+.spaceevenly{
+    display: flex;
+    justify-content:space-evenly;
+    margin-left: 100px;
+}
+
+.plus{
+    width: 20px;
+    
+}
+.plus1{
+    width: 20px;
+    
+}
+.space1{
+    display: flex;
+    justify-content:space-evenly;
+}
+.border1{
+    display: flex;
+    border: solid #000000 2px;
+    padding:20px 0px 20px 0px ;
+    margin-right: 950px;
+    margin-left: 50px;
+    margin-top: 3px;
+    border-radius: 20px;
+}
+
+.folder{
+    width: 20px;
+    
+}
+
+.cross{
+    width: 20px;
+    margin-left: 2px;
+}
+.edit{
+    width: 20px;
+    margin-left: 2px;
+}
+
